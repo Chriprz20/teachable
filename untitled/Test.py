@@ -1,2 +1,2 @@
-
-print(98*56)
+# comment
+print("ALOOO WORLD")
